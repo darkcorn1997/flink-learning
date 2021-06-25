@@ -1,0 +1,17 @@
+base/WikipediaAnalysis$3.class
+FlinkTable/TableSQL.class
+FlinkTable/TableSQL$PlayerData.class
+base/WikipediaAnalysis$2.class
+FlinkTable/TableSQL$1.class
+FlinkTable/KafkaStreamSQL.class
+FlinkTable/WordCountSQL$WC.class
+base/WikipediaAnalysis$1.class
+FlinkTable/TableSQL$Result.class
+base/WordCount.class
+base/WikipediaAnalysis.class
+FlinkTable/WordCountSQL.class
+spendreport/FraudDetectionJob.class
+base/WordCount$LineSplitter.class
+FlinkTable/KafkaStreamSQL$1.class
+FlinkTable/WordCountSQL$StringToSite.class
+spendreport/FraudDetector.class
