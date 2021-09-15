@@ -5,7 +5,6 @@ import org.apache.flink.api.java.ExecutionEnvironment;
 import org.apache.flink.table.api.Table;
 import org.apache.flink.table.api.bridge.java.BatchTableEnvironment;
 import org.apache.flink.table.functions.ScalarFunction;
-
 import java.util.ArrayList;
 import java.util.List;
 
